@@ -1,0 +1,6 @@
+student_id,math,science,english,attendance_pct,study_hours_week,class_tests_avg,previous_term_avg
+E001,86,84,88,94,12,85,86
+E002,54,56,52,69,6,53,54
+E003,80,78,82,87,10,79,80
+E004,43,45,40,61,4,42,43
+E005,68,70,66,79,8,67,68
